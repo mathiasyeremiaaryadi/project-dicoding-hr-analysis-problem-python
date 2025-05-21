@@ -53,8 +53,10 @@ B. 🧹 Pembersihan data dari:
 -   **Dataset**: [Jaya Maju Dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 -   **Setup Environment**:
     ```bash
+    python -m venv hr-problem-analysis-project
+    hr-problem-analysis-project\Script\activate
     pip install -r requirements.txt
-    python prediction.py
+    pip install streamlit
     ```
 
 ---
@@ -161,16 +163,16 @@ Dashboard interaktif dibuat untuk membantu tim HR dalam memantau dan menganalisi
 
 ### 🤖 D. Modeling & Evaluation
 
-Model machine learning terbaik: **Random Forest Classifier**
+Model machine learning terbaik: **Logistic Regression**
 
 📈 Hasil evaluasi model:
 
 | Metrik       | Nilai |
 | ------------ | ----- |
-| 🎯 Accuracy  | 78%   |
-| 📌 Precision | 42%   |
-| 🔁 Recall    | 77%   |
-| 📊 F1-Score  | 54%   |
+| 🎯 Accuracy  | 84%   |
+| 📌 Precision | 52%   |
+| 🔁 Recall    | 75%   |
+| 📊 F1-Score  | 62%   |
 
 ⚠️ \*Precision dan F1 rendah disebabkan oleh **ketidakseimbangan label Attrition\***
 
