@@ -15,7 +15,7 @@ Divisi HR memerlukan pendekatan **data science** untuk:
 
 ## ❓ 2. Permasalahan Bisnis
 
-💡 Beberapa pertanyaan utama yang ingin dijawab dalam proyek ini:
+💡 Beberapa permasalahan bisnis yang ingin dijawab:
 
 -   👶 Mengapa karyawan muda (usia 20–30 tahun) lebih rentan resign?
 -   💰 Apakah gaji, benefit, dan stock option sudah kompetitif?
@@ -27,7 +27,8 @@ Divisi HR memerlukan pendekatan **data science** untuk:
 
 ## 🔍 3. Cakupan Proyek
 
-A. 📥 Pengambilan & inspeksi data karyawan  
+A. 📥 Pengambilan & inspeksi data karyawan
+
 B. 🧹 Pembersihan data dari:
 
 -   Missing value
@@ -35,26 +36,33 @@ B. 🧹 Pembersihan data dari:
 -   Duplicate data
 -   Inaccurate value
 -   Inconsistent value
--   Outlier  
-    C. 📊 Exploratory Data Analysis (EDA) mencakup:
+-   Outlier
+
+C. 📊 Exploratory Data Analysis (EDA) mencakup:
+
 -   Distribusi numerik & kategorikal
 -   Korelasi antar fitur
--   Visualisasi insight  
-    D. ⚙️ Feature engineering:
+-   Visualisasi insight
+
+D. ⚙️ Feature engineering:
+
 -   Seleksi fitur
--   Transformasi & scaling  
-    E. 🤖 Model training dengan algoritma machine learning  
-    F. 🧪 Evaluasi model menggunakan confusion matrix
+-   Transformasi & scaling
+
+E. 🤖 Model training dengan algoritma machine learning
+
+F. 🧪 Evaluasi model menggunakan confusion matrix
 
 ---
 
 ## 🧰 4. Persiapan
 
 -   **Dataset**: [Jaya Maju Dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
+-   **Python**: 3.11
 -   **Setup Environment**:
     ```bash
     python -m venv hr-problem-analysis-project
-    hr-problem-analysis-project\Script\activate
+    hr-problem-analysis-project\Scripts\activate
     pip install -r requirements.txt
     pip install streamlit
     ```
@@ -199,7 +207,7 @@ Model machine learning terbaik: **Logistic Regression**
 -   🛠️ Implementasi perbaikan dari hasil survei
 -   🤝 Lingkungan kolaboratif & suportif
 
-### 🔥 D. Mengurangi Burnout karena Lembur/Perjalanan
+### 🔥 D. Mengurangi Stress Kerja karena Lembur/Perjalanan
 
 -   ⏰ Batasi lembur sesuai regulasi
 -   🧾 Kompensasi lembur & istirahat
