@@ -67,7 +67,9 @@ F. 🧪 Evaluasi model menggunakan confusion matrix
     pip install streamlit
     ```
 -   **Metabase acess:**
+
     **Email**: root@mail.com
+
     **Password**: root123
 
 ---
