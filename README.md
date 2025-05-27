@@ -66,6 +66,9 @@ F. 🧪 Evaluasi model menggunakan confusion matrix
     pip install -r requirements.txt
     pip install streamlit
     ```
+-   **Metabase acess:**
+    **Email**: root@mail.com
+    **Password**: root123
 
 ---
 
@@ -74,15 +77,15 @@ F. 🧪 Evaluasi model menggunakan confusion matrix
 Dashboard interaktif dibuat untuk membantu tim HR dalam memantau dan menganalisis faktor-faktor penyebab karyawan resign, seperti:
 
 -   👶 Usia
--   💰 Pendapatan
+-   💰 Benefit
 -   😊 Tingkat Kepuasan Kerja
--   ⏰ Jam Lembur
+-   ⏰ Beban Kerja
 -   🛫 Frekuensi Perjalanan Dinas
 -   🧪 Departemen
 
 🎯 Dashboard ini menyajikan **insight visual** berdasarkan hasil analisis dan model machine learning untuk mendukung pengambilan keputusan secara **data-driven**.
 
-🔗 **Link Demo Dashboard** (jika tersedia): _[Tambahkan link ke Streamlit/PowerBI/etc di sini]_
+![Dashboard Analitik HR](mathiasy-dashboard.png)
 
 ---
 
@@ -231,5 +234,3 @@ Dengan strategi berbasis data, perusahaan **Jaya Jaya Maju** dapat:
 -   🚀 Meningkatkan retensi karyawan dan produktivitas
 
 ---
-
-📌 _Proyek ini dikembangkan sebagai bagian dari tugas akhir dalam pembelajaran Data Science untuk menyelesaikan masalah dunia nyata di bidang Human Resource._
