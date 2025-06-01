@@ -4,10 +4,11 @@
 
 ---
 
-**PT Jaya Jaya Maju** adalah perusahaan multinasional yang berdiri sejak tahun 2000 dan memiliki lebih dari 1.000 karyawan di seluruh Indonesia.  
-Namun, meskipun telah tumbuh besar, perusahaan masih menghadapi tantangan serius dalam hal **retensi karyawan**, dengan **attrition rate** yang menembus angka **10%**.
+PT Edutech merupakan perusahaan teknologi pendidikan yang terus berkembang dan sangat bergantung pada sumber daya manusia yang kompeten dan stabil. Namun, dalam beberapa tahun terakhir, HRD PT Edutech menghadapi tantangan dalam mempertahankan karyawan. Tingkat attrition atau pengunduran diri karyawan yang cukup tinggi menimbulkan kekhawatiran, karena berdampak langsung terhadap kelangsungan proyek, beban kerja tim, serta biaya rekrutmen dan pelatihan karyawan baru.
 
-Divisi HR memerlukan pendekatan **data science** untuk:
+Selama ini, proses identifikasi penyebab attrition masih bersifat manual dan berdasarkan asumsi, sehingga tidak memberikan gambaran yang akurat tentang pola dan faktor-faktor yang berkontribusi terhadap keputusan karyawan untuk resign. Oleh karena itu, HRD ingin memanfaatkan pendekatan data science untuk menggali lebih dalam data karyawan dan mengidentifikasi variabel-variabel penting—seperti masa kerja, benefit, jabatan, lokasi kerja, beban kerja, performa, dan keterlibatan dalam pelatihan—yang dapat memengaruhi risiko pengunduran diri.
+
+Oleh karena itu, HRD PT Edutech memerlukan pendekatan **data science** untuk:
 
 - Mengidentifikasi faktor utama yang menyebabkan karyawan resign
 - Membangun **model machine learning** untuk prediksi resign
