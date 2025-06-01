@@ -2,8 +2,6 @@
 
 ## Business Understanding
 
----
-
 PT Edutech merupakan perusahaan teknologi pendidikan yang terus berkembang dan sangat bergantung pada sumber daya manusia yang kompeten dan stabil. Namun, dalam beberapa tahun terakhir, HRD PT Edutech menghadapi tantangan dalam mempertahankan karyawan. Tingkat attrition atau pengunduran diri karyawan yang cukup tinggi menimbulkan kekhawatiran, karena berdampak langsung terhadap kelangsungan proyek, beban kerja tim, serta biaya rekrutmen dan pelatihan karyawan baru.
 
 Selama ini, proses identifikasi penyebab attrition masih bersifat manual dan berdasarkan asumsi, sehingga tidak memberikan gambaran yang akurat tentang pola dan faktor-faktor yang berkontribusi terhadap keputusan karyawan untuk resign. Oleh karena itu, HRD ingin memanfaatkan pendekatan data science untuk menggali lebih dalam data karyawan dan mengidentifikasi variabel-variabel penting—seperti masa kerja, benefit, jabatan, lokasi kerja, beban kerja, performa, dan keterlibatan dalam pelatihan—yang dapat memengaruhi risiko pengunduran diri.
@@ -16,8 +14,6 @@ Oleh karena itu, HRD PT Edutech memerlukan pendekatan **data science** untuk:
 
 ## Permasalahan Bisnis
 
----
-
 Beberapa permasalahan bisnis dapat dirumuskan menjadi beberapa pertanyaan sebagai berikut:
 
 - Mengapa karyawan muda (usia 20–30 tahun) lebih rentan resign?
@@ -27,8 +23,6 @@ Beberapa permasalahan bisnis dapat dirumuskan menjadi beberapa pertanyaan sebaga
 - Mengapa tingkat resign tertinggi terjadi di departemen R&D?
 
 ## Cakupan Proyek
-
----
 
 A. Pengambilan & inspeksi data karyawan
 
@@ -58,8 +52,6 @@ F. Evaluasi model menggunakan confusion matrix
 
 ## Persiapan
 
----
-
 - **Dataset**: [Jaya Maju Dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 - **Python**: 3.11
 - **Setup Environment**:
@@ -78,8 +70,6 @@ F. Evaluasi model menggunakan confusion matrix
 
 ## Business Dashboard
 
----
-
 Dashboard interaktif dibuat untuk membantu tim HR dalam memantau dan menganalisis faktor-faktor penyebab karyawan resign, seperti:
 
 - Usia
@@ -94,8 +84,6 @@ Dashboard ini menyajikan **insight visual** berdasarkan hasil analisis dan model
 ![Dashboard Analitik HR](mathiasy-dashboard.png)
 
 ## Conclusion
-
----
 
 Dari hasil analisis data karyawan permasalahn yang terjadi dapat disimpulkan menjadi beberapa aspek yang menyebabkan karyawan resign:
 
